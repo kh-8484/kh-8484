@@ -49,7 +49,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/faisal-khan-76252a1b0/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Faisal%20Khan-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:faisalkh.8484@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-faisalkh.8484-blue?style=flat-square&logo=gmail"></a>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=kh-8484.kh-8484)  
-<!-- [![Visits Badge](https://badges.pufler.dev/visits/kh-8484/kh-8484?style=for-the-badge)](https://github.com/kh-8484) -->
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=kh-8484.kh-8484)   -->
 </p>
 
+[![Visits Badge](https://badges.pufler.dev/visits/kh-8484/kh-8484?style=for-the-badge)](https://github.com/kh-8484)
