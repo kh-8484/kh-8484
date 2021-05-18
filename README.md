@@ -1,6 +1,6 @@
 <h2><p align="center">Hey there! I'm Faisal Khan<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h2></p>
 
-<p align="center"><img src="https://github.com/mubeenpatel99/mubeenpatel99/raw/main/life.gif?raw=true" width="30%"></p>
+<p align="center"><img src="https://github.com/mubeenpatel99/mubeenpatel99/raw/main/life.gif?raw=true" width="40%"></p>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
